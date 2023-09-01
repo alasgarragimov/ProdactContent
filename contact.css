@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(172, 171, 171, 0.671);
+}
+
+.right_cont {
+    height: 40%;
+    background-color: white;
+    margin: 14px;
+    padding: 22px;
+    border: 1px solid rgba(169, 165, 165, 0.827);
+}
+
+.right_cont h1 {
+    padding-bottom: 14px;
+    font-weight: bold;
+    border-bottom: 4px solid rgba(169, 165, 165, 0.827);
+    color: rgba(18, 191, 200, 0.466);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.right_cont button {
+    font-size: 20px;
+    width: 20%;
+    padding: 10px;
+    margin-top: 14px;
+    background-color: rgba(18, 191, 200, 0.466);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: none;
+}
+
+.right_cont button a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+.form_cont {
+    display: block;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    color: rgba(169, 165, 165, 0.827);
+}
+
+.form_cont input {
+    width: 100%;
+    padding: 6px;
+    margin-top: 6px;
+    color: rgba(169, 165, 165, 0.827);
+}
+
+.form_cont textarea {
+    margin: 6px 0;
+}
