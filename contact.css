@@ -7,7 +7,7 @@ body {
 }
 
 .right_cont {
-    height: 40%;
+    width: 40%;
     background-color: white;
     margin: 14px;
     padding: 22px;
@@ -39,7 +39,6 @@ body {
 }
 
 .form_cont {
-    display: block;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px;
     color: rgba(169, 165, 165, 0.827);
